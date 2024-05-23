@@ -9,7 +9,7 @@
    
 ## Vídeo usado como inspiração
 
- [Clique aqui para acessar!] (https://www.youtube.com/watch?v=nxoPx7qOAbQ&t=940s)
+ [Clique aqui para acessar!] (https://www.youtube.com/watch?v=nxoPx7qOAbQ&t=940s).
 
  ## Visualize o site no link abaixo:
  [Veja-o aqui!](https://menu-tranparente-studio-ghibli.vercel.app/)
